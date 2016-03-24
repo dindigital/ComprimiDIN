@@ -1,0 +1,10 @@
+{
+  "path" : {
+    "src" : "./src/**/*",
+    "dest" : "./public/"
+  },
+  "extensions": "png,jpg,jpeg",
+  "tingpng" : {
+    "key" : ""
+  }
+}
